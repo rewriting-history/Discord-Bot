@@ -61,7 +61,7 @@ module.exports.countries = [
 	['Newfoundland', 400, 10, 0, -42, 'Small Powers', '🇬🇧🇨🇦'],
 	['Paraguay', 300, 3, 0, 0, 'Small Powers', '🇵🇾'],
 	['South Rhodesia', 400, 4, 0, 5, 'Small Powers', '🇬🇧🇿🇼'],
-	['Belgian Congo', 200, 0, 0, 0, 'Small Powers', '🇧🇪🇨🇩'],
+	['Belgian Congo', 200, 0, 0, 0, 'Small Powers', '🇧🇪🇨🇩'], // 🇸🇾🇫🇷 🇲🇷 🇫🇷
 	['Morocco', 280, 12, 0, 0, 'Small Powers', '🇲🇷🇫🇷'], 
 	['Tunisia', 300, 6, 0, 0, 'Small Powers', '🇹🇳🇫🇷'], 
 	['Yemen', 200, 11, 0, 0, 'Small Powers', '🇾🇪'],
@@ -78,7 +78,7 @@ module.exports.countries = [
 	
 	['Albania', 500, 3, 0, 1, 'Insignificant Powers', '🇦🇱'],
 	['Iceland', 220, 0, 0, 0, 'Insignificant Powers', '🇮🇸🇩🇰'],
-	['Kathiri', 60, 7, 0, 0, 'Insignificant Powers', '🇾🇪'],
+	['Kathiri', 60, 7, 0, 0, 'Insignificant Powers', '🇾🇪'], // 🇩🇰
 	['Qu’aiti', 80, 5, 0, 0, 'Insignificant Powers', '🇾🇪🇬🇧'],
 	['Mahrea', 120, 3, 0, 0, 'Insignificant Powers', '🇾🇪🇬🇧'],
 	['Lebanon', 100, 3, 0, 0, 'Insignificant Powers', '🇱🇧🇫🇷'],
