@@ -92,7 +92,7 @@ module.exports.countries = [
 	['Shanxi', 200, 4, 0, 0, 'Insignificant Powers', '🐼🇹🇼'],
 	['Lu', 200, 3, 0, 0, 'Insignificant Powers', '🐼🇹🇼'],
 	['Xikang', 250, 8, 0, 0, 'Insignificant Powers', '🐼'],
-	['Sichuan', 300, 8, 0, 0, 'Insignificant Powers', '🐼']
+	['Sichuan', 300, 8, 0, 0, 'Insignificant Powers', '🐼'],
 	['Uruguay', 400, 5, 0, 5, 'Insignificant Powers', '🇺🇾'],
 	['Cuba', 400, 5, 0, 0, 'Insignificant Powers', '🇨🇺'],
 	['Haiti', 180, 1, 0, 0, 'Insignificant Powers', '🇭🇹'],
